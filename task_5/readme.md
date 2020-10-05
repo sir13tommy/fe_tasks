@@ -26,5 +26,5 @@
 
 * Тасочка на плюс респект. Изучите встроенную функцию bind, и сделайте свою версию myBind по следующей сигнатуре.
 ```javascript
-function myBind(func, context, ...arguments) {}
+function myBind(func, context, ...args) {}
 ```
